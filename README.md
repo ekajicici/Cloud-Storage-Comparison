@@ -1,6 +1,6 @@
 # Cloud-Storage-Comparison
 # Cloud Storage Comparison: AWS S3 vs. Google Cloud Storage vs. Azure Blob Storage
-# MY AWS LINK https://mycloudcomputer33.s3.us-east-1.amazonaws.com/WIN_20250316_19_58_01_Pro.mp4
+# MY AWS LINK gs://csc302/WIN_20250316_19_58_01_Pro.mp4  # https://storage.cloud.google.com/csc302/WIN_20250316_19_58_01_Pro.mp4
 # MY GCP LINK https://console.cloud.google.com/storage/browser/cloud_computingcsc302
 ## Overview
 Cloud storage services have become a fundamental part of modern computing, offering scalable and secure storage solutions for businesses and individuals. Three of the most prominent cloud storage services are:
